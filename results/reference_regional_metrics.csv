@@ -1,0 +1,4 @@
+configuration,class_change_rate,entropy_increase_rate,mean_entropy_change,mean_abs_entropy_change
+Baseline ResNet,0.2031,0.4496,-0.0206,0.0579
+ResNet + MC Dropout,0.0824,0.5259,0.0097,0.0713
+ResNet + Temperature Scaling,0.2031,0.4722,-0.0135,0.0471

@@ -1,0 +1,4 @@
+configuration,hit_at_5,mean_iou_at_5,top1_exact_match,zero_top5_overlap_images,mean_top1_distance
+Baseline ResNet,0.42,0.1506,0.12,28,3.04
+ResNet + MC Dropout,0.25,0.1199,0.06,46,3.32
+ResNet + Temperature Scaling,0.42,0.1658,0.13,27,3.09

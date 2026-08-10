@@ -1,0 +1,4 @@
+configuration,accuracy,macro_f1,macro_auc,ece,nll,brier_score
+Baseline ResNet,0.9443,0.9496,0.9931,0.0205,0.163,0.0872
+ResNet + MC Dropout,0.9502,0.9571,0.9937,0.0144,0.1534,0.0797
+ResNet + Temperature Scaling,0.9443,0.9496,0.9931,0.0101,0.1558,0.0857
